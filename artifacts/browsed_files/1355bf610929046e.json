@@ -1,0 +1,274 @@
+[
+  {
+    "name": "__root.tsx",
+    "path": "src/routes/__root.tsx",
+    "sha": "0be5e910c0f3c0f2adfe81d96be7c4cbeafcadbc",
+    "size": 1634,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/__root.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/__root.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/0be5e910c0f3c0f2adfe81d96be7c4cbeafcadbc",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/__root.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/__root.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/0be5e910c0f3c0f2adfe81d96be7c4cbeafcadbc",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/__root.tsx"
+    }
+  },
+  {
+    "name": "account.tsx",
+    "path": "src/routes/account.tsx",
+    "sha": "4700114a18679f2ce0f2ed49e11090f899c8a64b",
+    "size": 4827,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/account.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/account.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/4700114a18679f2ce0f2ed49e11090f899c8a64b",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/account.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/account.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/4700114a18679f2ce0f2ed49e11090f899c8a64b",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/account.tsx"
+    }
+  },
+  {
+    "name": "api",
+    "path": "src/routes/api",
+    "sha": "89413657ba7366cc0fb93d9e8564120053b9f49e",
+    "size": 0,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/api?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/tree/main/src/routes/api",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/trees/89413657ba7366cc0fb93d9e8564120053b9f49e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/api?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/trees/89413657ba7366cc0fb93d9e8564120053b9f49e",
+      "html": "https://github.com/abcbode/vertex/tree/main/src/routes/api"
+    }
+  },
+  {
+    "name": "bode.tsx",
+    "path": "src/routes/bode.tsx",
+    "sha": "da560520bb9685d4536e278077d8ac04e877bc1d",
+    "size": 190,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/bode.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/bode.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/da560520bb9685d4536e278077d8ac04e877bc1d",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/bode.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/bode.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/da560520bb9685d4536e278077d8ac04e877bc1d",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/bode.tsx"
+    }
+  },
+  {
+    "name": "bode",
+    "path": "src/routes/bode",
+    "sha": "09dd6988512d13d003a0f10566688118f9b479c1",
+    "size": 0,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/bode?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/tree/main/src/routes/bode",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/trees/09dd6988512d13d003a0f10566688118f9b479c1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/bode?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/trees/09dd6988512d13d003a0f10566688118f9b479c1",
+      "html": "https://github.com/abcbode/vertex/tree/main/src/routes/bode"
+    }
+  },
+  {
+    "name": "deposit.tsx",
+    "path": "src/routes/deposit.tsx",
+    "sha": "0e38654dd5455877aedd1ca2100c5a0d06e70679",
+    "size": 5445,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/deposit.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/deposit.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/0e38654dd5455877aedd1ca2100c5a0d06e70679",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/deposit.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/deposit.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/0e38654dd5455877aedd1ca2100c5a0d06e70679",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/deposit.tsx"
+    }
+  },
+  {
+    "name": "forgot-password.tsx",
+    "path": "src/routes/forgot-password.tsx",
+    "sha": "2aa9346113bb6cc9209813e526f4797dbe8da191",
+    "size": 2163,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/forgot-password.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/forgot-password.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/2aa9346113bb6cc9209813e526f4797dbe8da191",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/forgot-password.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/forgot-password.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/2aa9346113bb6cc9209813e526f4797dbe8da191",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/forgot-password.tsx"
+    }
+  },
+  {
+    "name": "history.tsx",
+    "path": "src/routes/history.tsx",
+    "sha": "8519fe4e6db7858ad1f1b1c42619462d24dc7ff3",
+    "size": 3229,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/history.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/history.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/8519fe4e6db7858ad1f1b1c42619462d24dc7ff3",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/history.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/history.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/8519fe4e6db7858ad1f1b1c42619462d24dc7ff3",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/history.tsx"
+    }
+  },
+  {
+    "name": "index.tsx",
+    "path": "src/routes/index.tsx",
+    "sha": "61ab42737d68e595435390a364ef59c2d42216eb",
+    "size": 6371,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/index.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/index.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/61ab42737d68e595435390a364ef59c2d42216eb",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/index.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/index.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/61ab42737d68e595435390a364ef59c2d42216eb",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/index.tsx"
+    }
+  },
+  {
+    "name": "login.tsx",
+    "path": "src/routes/login.tsx",
+    "sha": "d566822f3da1c72e5addad460aff9f3e7bb34736",
+    "size": 2931,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/login.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/login.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/d566822f3da1c72e5addad460aff9f3e7bb34736",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/login.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/login.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/d566822f3da1c72e5addad460aff9f3e7bb34736",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/login.tsx"
+    }
+  },
+  {
+    "name": "notifications.tsx",
+    "path": "src/routes/notifications.tsx",
+    "sha": "ca3c4b82c9e0108da901b1277a615835c70305f8",
+    "size": 1567,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/notifications.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/notifications.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/ca3c4b82c9e0108da901b1277a615835c70305f8",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/notifications.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/notifications.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/ca3c4b82c9e0108da901b1277a615835c70305f8",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/notifications.tsx"
+    }
+  },
+  {
+    "name": "register.tsx",
+    "path": "src/routes/register.tsx",
+    "sha": "1ae661be4829b309d2bf2a2bb025cc60a4cc52e1",
+    "size": 2725,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/register.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/register.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/1ae661be4829b309d2bf2a2bb025cc60a4cc52e1",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/register.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/register.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/1ae661be4829b309d2bf2a2bb025cc60a4cc52e1",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/register.tsx"
+    }
+  },
+  {
+    "name": "reset-password.tsx",
+    "path": "src/routes/reset-password.tsx",
+    "sha": "9868aa99e95a6ef22d4221bb5352c238ff2e8670",
+    "size": 1972,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/reset-password.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/reset-password.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/9868aa99e95a6ef22d4221bb5352c238ff2e8670",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/reset-password.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/reset-password.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/9868aa99e95a6ef22d4221bb5352c238ff2e8670",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/reset-password.tsx"
+    }
+  },
+  {
+    "name": "support.tsx",
+    "path": "src/routes/support.tsx",
+    "sha": "36bc59f9222b134d67cb6d7a10cffb43e2016482",
+    "size": 2626,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/support.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/support.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/36bc59f9222b134d67cb6d7a10cffb43e2016482",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/support.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/support.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/36bc59f9222b134d67cb6d7a10cffb43e2016482",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/support.tsx"
+    }
+  },
+  {
+    "name": "trade.tsx",
+    "path": "src/routes/trade.tsx",
+    "sha": "2c51817c8ce32bda53a05ff4868d84d84c3e0e12",
+    "size": 14385,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/trade.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/trade.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/2c51817c8ce32bda53a05ff4868d84d84c3e0e12",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/trade.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/trade.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/2c51817c8ce32bda53a05ff4868d84d84c3e0e12",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/trade.tsx"
+    }
+  },
+  {
+    "name": "wallet.tsx",
+    "path": "src/routes/wallet.tsx",
+    "sha": "ac2c5f9907981f30ec55cb2ba410c44f1b893829",
+    "size": 3300,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/wallet.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/wallet.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/ac2c5f9907981f30ec55cb2ba410c44f1b893829",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/wallet.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/wallet.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/ac2c5f9907981f30ec55cb2ba410c44f1b893829",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/wallet.tsx"
+    }
+  },
+  {
+    "name": "withdraw.tsx",
+    "path": "src/routes/withdraw.tsx",
+    "sha": "de7050039c681050b025988015454c2a9ab26684",
+    "size": 5350,
+    "url": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/withdraw.tsx?ref=main",
+    "html_url": "https://github.com/abcbode/vertex/blob/main/src/routes/withdraw.tsx",
+    "git_url": "https://api.github.com/repos/abcbode/vertex/git/blobs/de7050039c681050b025988015454c2a9ab26684",
+    "download_url": "https://raw.githubusercontent.com/abcbode/vertex/main/src/routes/withdraw.tsx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/abcbode/vertex/contents/src/routes/withdraw.tsx?ref=main",
+      "git": "https://api.github.com/repos/abcbode/vertex/git/blobs/de7050039c681050b025988015454c2a9ab26684",
+      "html": "https://github.com/abcbode/vertex/blob/main/src/routes/withdraw.tsx"
+    }
+  }
+]
