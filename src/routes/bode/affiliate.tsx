@@ -51,12 +51,15 @@ function AffiliateAdmin() {
         </div>
         <Button
           onClick={async () => {
-            const cur = await getSettings();
-            await saveSettings({
-              data: { ...cur, affiliate_rate: rate, affiliate_enabled: on ? "true" : "false" },
-            });
-            toast.success("Đã lưu % chung");
-            await load();
+            try {
+              const saved = await saveAffiliateSettings({ data: { rate, enabled: on } });
+              setRate(String(saved.rate));
+              setOn(saved.enabled);
+              toast.success(`Đã lưu ${saved.rate}%`);
+              await load();
+            } catch (e) {
+              toast.error(e instanceof Error ? e.message : "Không lưu được");
+            }
           }}
         >
           Lưu % chung
