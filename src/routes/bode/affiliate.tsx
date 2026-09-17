@@ -8,8 +8,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Switch } from "@/components/ui/switch";
 import { vnd } from "@/lib/format";
-import { getSettings, saveSettings } from "@/lib/server/admin";
-import { getAdminAffiliate, setUserAffiliateRate } from "@/lib/server/affiliate";
+import { getAdminAffiliate, saveAffiliateSettings, setUserAffiliateRate } from "@/lib/server/affiliate";
 
 export const Route = createFileRoute("/bode/affiliate")({ component: AffiliateAdmin });
 
