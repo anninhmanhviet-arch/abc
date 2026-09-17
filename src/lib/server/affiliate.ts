@@ -183,15 +183,17 @@ export const getAdminAffiliate = createServerFn({ method: "GET" })
       earned: string;
     }>`select p.user_id, u.email, p.referral_code, p.affiliate_rate,
              (select count(*)::int from profiles x where x.referred_by = p.user_id) as friends,
-             coalesce((select sum(amount) from affiliate_commissions c where c.referrer_id = p.user_id), 0)::text as earned
+             coalesce((select sum(c.amount) from affiliate_commissions c where c.referrer_id = p.user_id), 0)::text as earned
        from profiles p
        join "user" u on u.id = p.user_id
        where p.role <> 'admin'
          and (${like}::text is null
            or u.email ilike ${like}
-           or p.referral_code ilike ${like}
+           or coalesce(p.referral_code, '') ilike ${like}
            or p.display_name ilike ${like})
-       order by earned::numeric desc, friends desc, p.created_at desc
+       order by (select coalesce(sum(c.amount), 0) from affiliate_commissions c where c.referrer_id = p.user_id) desc,
+                (select count(*)::int from profiles x where x.referred_by = p.user_id) desc,
+                p.created_at desc
        limit 80`;
     const recent = await sql<{
       id: number;
